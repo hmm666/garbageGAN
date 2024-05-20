@@ -73,6 +73,8 @@ python voc_annotation.py
 - 训练目标检测模型
   
   需要在yolox-pytorch/train.py中修改类别文件路径和模型预训练权重路径
+
+  预训练权重：https://pan.baidu.com/s/19b5UJviAPQHpXEgmDJt6ug?pwd=awg8 提取码：awg8，同时训练好的目标检测模型权重也在该云盘
 ```
 python train.py
 ```
