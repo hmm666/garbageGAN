@@ -1,0 +1,50 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>2022-06-20 15-03-15.jpg</filename>
+	<path>C:/Users/Administrator/Desktop/新建文件夹/2022-06-20 15-03-15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>200</ymin>
+			<xmax>536</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>garbage-bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>473</ymin>
+			<xmax>395</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>663</xmin>
+			<ymin>344</ymin>
+			<xmax>1102</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+</annotation>

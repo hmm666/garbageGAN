@@ -1,0 +1,50 @@
+<annotation>
+	<folder>AlertSampleD 11.1</folder>
+	<filename>AlertSampleD-157.jpg</filename>
+	<path>C:/AlertSampleD 11.1/AlertSampleD-157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>947</xmin>
+			<ymin>12</ymin>
+			<xmax>1075</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>180</ymin>
+			<xmax>463</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>youtong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>899</xmin>
+			<ymin>7</ymin>
+			<xmax>930</xmax>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+</annotation>

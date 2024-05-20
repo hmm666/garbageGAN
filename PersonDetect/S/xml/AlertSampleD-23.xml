@@ -1,0 +1,38 @@
+<annotation>
+	<folder>AlertSampleD 11.1</folder>
+	<filename>AlertSampleD-23.jpg</filename>
+	<path>C:/AlertSampleD 11.1/AlertSampleD-23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>143</ymin>
+			<xmax>216</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>worker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>192</ymin>
+			<xmax>678</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>

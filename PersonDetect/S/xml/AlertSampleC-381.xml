@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AlertSampleC</folder>
+	<filename>AlertSampleC-381.jpg</filename>
+	<path>C:/沈/AlertSampleC/AlertSampleC-381.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1305</xmin>
+			<ymin>249</ymin>
+			<xmax>1438</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

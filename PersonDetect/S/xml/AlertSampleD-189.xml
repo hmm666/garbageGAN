@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AlertSampleD 11.1</folder>
+	<filename>AlertSampleD-189.jpg</filename>
+	<path>C:/AlertSampleD 11.1/AlertSampleD-189.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>127</ymin>
+			<xmax>721</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+</annotation>

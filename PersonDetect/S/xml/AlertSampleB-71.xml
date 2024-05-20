@@ -1,0 +1,26 @@
+<annotation>
+	<folder>50张</folder>
+	<filename>2022-06-08 17-21-04.jpg</filename>
+	<path>H:/50张/2022-06-08 17-21-04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>700</xmin>
+			<ymin>94</ymin>
+			<xmax>967</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>北苑</folder>
+	<filename>2022-06-08 17-32-50.jpg</filename>
+	<path>H:/北苑/2022-06-08 17-32-50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>622</xmin>
+			<ymin>247</ymin>
+			<xmax>733</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>763</xmin>
+			<ymin>313</ymin>
+			<xmax>913</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

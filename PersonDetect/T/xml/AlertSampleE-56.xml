@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AlertSampleE-night</folder>
+	<filename>AlertSampleE-56.jpg</filename>
+	<path>C:/Users/Administrator/Desktop/AlertSampleE-night/AlertSampleE-56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>954</xmin>
+			<ymin>170</ymin>
+			<xmax>1124</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

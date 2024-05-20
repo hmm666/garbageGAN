@@ -1,0 +1,38 @@
+<annotation>
+	<folder>原照片 - 副本</folder>
+	<filename>23.jpg</filename>
+	<path>E:/原照片 - 副本/23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>338</ymin>
+			<xmax>261</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>worker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>200</ymin>
+			<xmax>687</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>
