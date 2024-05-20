@@ -24,7 +24,7 @@
 ## 环境配置
 - 克隆该项目
 ```
-git clone 
+git clone https://github.com/hmm666/garbageGAN.git
 cd garbageGAN
 ```
 - 安装依赖库
